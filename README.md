@@ -1,7 +1,7 @@
 # VR Driver Perspective Safety Simulator  
 **Author: Abhishek Dubasi**
 
-This project presents a Virtual Reality–based safety simulation environment built in Unity. It demonstrates advanced driver safety systems applied to a high-performance vehicle. Here we chose the Volvo S90 - CAD designed and modified using Blender.
+This project presents a Virtual Reality–based safety simulation environment built in Unity. It demonstrates advanced driver safety systems applied to a high-performance vehicle. The vehicle model is a Volvo S90.
 
 Developed as part of a capstone research project at the Deggendorf Institute of Technology, Bavaria, Germany.
 
@@ -61,9 +61,7 @@ ___
 
 ## Media Resources
 
-- [Screenshots & Visuals (OneDrive)](https://studthdegde-my.sharepoint.com/:f:/g/personal/abhishek_dubasi_stud_th-deg_de/Eu7-3cGFICpOjXLLxLYXWy4Bmr-o--dDsnzsRCXtYIsjPQ?e=d0OQSm)
-- [Videos of the Unity Simulation - MP4](https://studthdegde-my.sharepoint.com/:f:/g/personal/abhishek_dubasi_stud_th-deg_de/Eq8z8s7w8N5MktSsATyw6soBZCvrT-ZI93qIZa8TI_uarg?e=dTuQe3)
-- [Project Presentation (PPT)](https://studthdegde-my.sharepoint.com/:f:/g/personal/abhishek_dubasi_stud_th-deg_de/En3-6eAKa8xOrzbUUuIZ9lkBJ5X6YMA7QwBNc16Ndb5fiw?e=f5E5cu)
+Screenshots, videos and the project presentation are kept in a university folder that needs a login. They are available on request.
 
 ## License
 
