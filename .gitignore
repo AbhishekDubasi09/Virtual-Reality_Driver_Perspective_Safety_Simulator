@@ -1,0 +1,19 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Unity generated folders and project files
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+Builds/
+Build/
+MemoryCaptures/
+*.csproj
+*.sln
+*.pidb
+*.suo
+*.user
